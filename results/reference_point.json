@@ -1,0 +1,18 @@
+{
+  "reference_point_min_form": [
+    16.17,
+    67.666,
+    934.5
+  ],
+  "objectives_min_form": [
+    "-preference",
+    "cost",
+    "time"
+  ],
+  "note": "worst value across all runs (final fronts + every generation) + 10% of range",
+  "pop_size": 100,
+  "generations": 100,
+  "seed": 42,
+  "penalty_lambda": 30.0,
+  "diversity_alpha": 1.0
+}

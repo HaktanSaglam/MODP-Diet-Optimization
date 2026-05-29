@@ -1,0 +1,9 @@
+label,user,algo,diversity,final_hypervolume,front_size,feasible,avg_distinct_groups,seconds
+u1_nsgaii_div,1,NSGA-II,1,5264338.1838,85,34,8.4,1.82
+u1_nsgaii_nodiv,1,NSGA-II,0,5706875.2992,96,33,7.938,1.79
+u1_spea2_div,1,SPEA2,1,5339604.2213,100,41,8.73,3.64
+u1_spea2_nodiv,1,SPEA2,0,5691509.9456,77,26,7.156,3.4
+u2_nsgaii_div,2,NSGA-II,1,8383111.5572,93,38,9.172,1.64
+u2_nsgaii_nodiv,2,NSGA-II,0,8256310.8338,94,26,9.596,1.61
+u2_spea2_div,2,SPEA2,1,9087811.2001,100,31,10.3,3.72
+u2_spea2_nodiv,2,SPEA2,0,7894633.8445,100,39,9.15,3.4
