@@ -2,6 +2,16 @@
 
 Term project for **BLM20364E / BLM22332E — Heuristic Optimization Algorithms**.
 
+## Project Members
+
+| # | Name |
+|---|------|
+| 1 | Haktan Sağlam |
+| 2 | Ömer Faruk Kocabaş |
+| 3 | Abdullah Beşir Arat |
+| 4 | Muhammet Gelgör |
+| 5 | Mustafa Aydın |
+
 Recommend a daily menu (breakfast + lunch&dinner) for a user from a database of
 **405 prepared foods**, modelled as a **Multi-Objective Multidimensional Knapsack
 Problem (MOMKP)** and solved with two multi-objective evolutionary algorithms,
